@@ -1,0 +1,9 @@
+@media only screen and (max-width: 600px) {
+    .d-flex {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    img {
+        position: relative;
+    }
+}
